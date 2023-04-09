@@ -24,16 +24,15 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 50,
     layersOrder: [
-    // Change based on graphic designs
-      { name: "Background" }, 
-      { name: "Eyeball" },
-      { name: "Eye color" },
-      { name: "Iris" },
-      { name: "Shine" },
-      { name: "Bottom lid" },
-      { name: "Top lid" },
+        { name: "Background"},
+        { name: "Head"},
+        { name: "Shirt"},
+        { name: "Jacket"},
+        { name: "Tie"},
+        { name: "Eyewear"},
+        { name: "Headpiece"},
     ],
   },
 ];
@@ -43,8 +42,8 @@ const shuffleLayerConfigurations = false;
 const debugLogs = false;
 
 const format = {
-  width: 512,
-  height: 512,
+  width: 1024,
+  height: 1024,
   smoothing: false,
 };
 
@@ -69,7 +68,7 @@ const text = {
 };
 
 const pixelFormat = {
-  ratio: 2 / 128,
+  ratio: 32 / 128,
 };
 
 const background = {
