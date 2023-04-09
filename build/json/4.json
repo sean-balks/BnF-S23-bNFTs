@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #4",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4.png",
+  "dna": "dd4d17a1c8fde5e71133bd23c78382b6b346bc52",
+  "edition": 4,
+  "date": 1680743835006,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "empire2"
+    },
+    {
+      "trait_type": "Head",
+      "value": "head"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "white"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "black"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "teal"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "sunglasses"
+    },
+    {
+      "trait_type": "Headpiece",
+      "value": "cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

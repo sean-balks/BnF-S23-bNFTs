@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #31",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/31.png",
+  "dna": "3976dbad6b52beec53b33f233ff340953507893a",
+  "edition": 31,
+  "date": 1680743853095,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "wsp8"
+    },
+    {
+      "trait_type": "Head",
+      "value": "head"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "black"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "purple"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "teal"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Headpiece",
+      "value": "cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

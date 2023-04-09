@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #18",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/18.png",
+  "dna": "76dc29d83fabda0dfcf9c80e47d9512b9558f517",
+  "edition": 18,
+  "date": 1680743844471,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "sol4"
+    },
+    {
+      "trait_type": "Head",
+      "value": "head"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "black"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "punk"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "purple"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "3d"
+    },
+    {
+      "trait_type": "Headpiece",
+      "value": "earring"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #5",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/5.png",
+  "dna": "f6ce74902c3750779481900606f1fc7ce99626bb",
+  "edition": 5,
+  "date": 1680743835660,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "wsp7"
+    },
+    {
+      "trait_type": "Head",
+      "value": "head"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "white"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "poker_suit"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "sunglasses"
+    },
+    {
+      "trait_type": "Headpiece",
+      "value": "helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

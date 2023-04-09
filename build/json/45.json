@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #45",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/45.png",
+  "dna": "b4773a2debfd2681e6f1b24932ed2912f6c01a9b",
+  "edition": 45,
+  "date": 1680743862923,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "wsp3"
+    },
+    {
+      "trait_type": "Head",
+      "value": "head"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "poker2"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "red"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "sunglasses"
+    },
+    {
+      "trait_type": "Headpiece",
+      "value": "blank"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

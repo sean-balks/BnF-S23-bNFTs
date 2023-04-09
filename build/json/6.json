@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #6",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/6.png",
+  "dna": "02ce805ca5367e88c65b4565b011576fce203f0c",
+  "edition": 6,
+  "date": 1680743836391,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "bridge2"
+    },
+    {
+      "trait_type": "Head",
+      "value": "head"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "black"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "punk"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "cartoon"
+    },
+    {
+      "trait_type": "Headpiece",
+      "value": "earring"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

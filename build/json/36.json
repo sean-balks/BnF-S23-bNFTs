@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #36",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/36.png",
+  "dna": "e881f4dc1228aa9ff84da76691ccccf8044fc629",
+  "edition": 36,
+  "date": 1680743856444,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "wsp2"
+    },
+    {
+      "trait_type": "Head",
+      "value": "head"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "pink"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "poker_suit"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "red"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "cartoon"
+    },
+    {
+      "trait_type": "Headpiece",
+      "value": "earring"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

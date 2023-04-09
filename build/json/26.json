@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #26",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/26.png",
+  "dna": "2197042cac8d7ebed624775b0519e26656386a88",
+  "edition": 26,
+  "date": 1680743849750,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "bridge1"
+    },
+    {
+      "trait_type": "Head",
+      "value": "head"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "black"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "navy"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "flower"
+    },
+    {
+      "trait_type": "Headpiece",
+      "value": "grad"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

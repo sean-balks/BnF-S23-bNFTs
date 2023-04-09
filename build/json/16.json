@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #16",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/16.png",
+  "dna": "56efcd037601d097d8e6be21acb2eab9e4f5370c",
+  "edition": 16,
+  "date": 1680743843066,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "empire1"
+    },
+    {
+      "trait_type": "Head",
+      "value": "head"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "purple"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "vr"
+    },
+    {
+      "trait_type": "Headpiece",
+      "value": "blank"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
