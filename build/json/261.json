@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #261",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/261.png",
+  "dna": "ce42b38c8caecd5d621c6fd84ca42a715d849dc0",
+  "edition": 261,
+  "date": 1681955287161,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "bridge4"
+    },
+    {
+      "trait_type": "Head",
+      "value": "head"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "white"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "original"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "vr"
+    },
+    {
+      "trait_type": "Headpiece",
+      "value": "tall"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

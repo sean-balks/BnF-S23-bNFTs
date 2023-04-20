@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #247",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/247.png",
+  "dna": "85506375bfc519f14d1893be3b12a079548ea3b5",
+  "edition": 247,
+  "date": 1681955277890,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "empire2"
+    },
+    {
+      "trait_type": "Head",
+      "value": "head"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "pink"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "original"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "teal"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "vr"
+    },
+    {
+      "trait_type": "Headpiece",
+      "value": "cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

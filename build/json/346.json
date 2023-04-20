@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #346",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/346.png",
+  "dna": "9d60dfcd73bf25160bfde8bb46ae1f3e91a478c1",
+  "edition": 346,
+  "date": 1681955342146,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "sol3"
+    },
+    {
+      "trait_type": "Head",
+      "value": "head"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "blue"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "plaid"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "green"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "Headpiece",
+      "value": "earring"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

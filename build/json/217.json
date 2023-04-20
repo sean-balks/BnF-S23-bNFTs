@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #217",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/217.png",
+  "dna": "d1e5dbb819dda620aca4ff2f6509028a58e4768b",
+  "edition": 217,
+  "date": 1681955257226,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "bridge1"
+    },
+    {
+      "trait_type": "Head",
+      "value": "head"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "white"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "plaid"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "teal"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "sunglasses"
+    },
+    {
+      "trait_type": "Headpiece",
+      "value": "tall"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

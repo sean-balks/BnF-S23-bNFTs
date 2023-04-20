@@ -2,13 +2,13 @@
   "name": "Your Collection #20",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/20.png",
-  "dna": "d422194acd3052932f4127cbf3235b412ca260a8",
+  "dna": "e3568e067e5e7c8589735576ca54ebaaede70cc8",
   "edition": 20,
-  "date": 1680743845814,
+  "date": 1681955128420,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "bridge4"
+      "value": "bridge2"
     },
     {
       "trait_type": "Head",
@@ -16,23 +16,23 @@
     },
     {
       "trait_type": "Shirt",
-      "value": "black"
+      "value": "white"
     },
     {
       "trait_type": "Jacket",
-      "value": "plaid"
+      "value": "original"
     },
     {
       "trait_type": "Tie",
-      "value": "purple"
+      "value": "green"
     },
     {
       "trait_type": "Eyewear",
-      "value": "vr"
+      "value": "blank"
     },
     {
       "trait_type": "Headpiece",
-      "value": "cap"
+      "value": "tall"
     }
   ],
   "compiler": "HashLips Art Engine"

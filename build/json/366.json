@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #366",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/366.png",
+  "dna": "64b3e7e8803a704a8ffc0b86d2be01b63f7e55f9",
+  "edition": 366,
+  "date": 1681955355313,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "empire5"
+    },
+    {
+      "trait_type": "Head",
+      "value": "head"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "white"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "plaid"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "red"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "sunglasses"
+    },
+    {
+      "trait_type": "Headpiece",
+      "value": "cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Your Collection #355",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/355.png",
+  "dna": "36fd19d6aa8149793ea8091814cf3f4963a9d7d5",
+  "edition": 355,
+  "date": 1681955348085,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "bridge3"
+    },
+    {
+      "trait_type": "Head",
+      "value": "head"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "black"
+    },
+    {
+      "trait_type": "Jacket",
+      "value": "purple"
+    },
+    {
+      "trait_type": "Tie",
+      "value": "brown"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "sunglasses"
+    },
+    {
+      "trait_type": "Headpiece",
+      "value": "grad"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

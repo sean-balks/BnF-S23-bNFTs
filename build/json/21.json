@@ -2,13 +2,13 @@
   "name": "Your Collection #21",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/21.png",
-  "dna": "85b6f383607a2b96d35a7d6bacab31fcf5b2d607",
+  "dna": "28e0d272b3d74a9b39f99cac0d767a815e7d0999",
   "edition": 21,
-  "date": 1680743846528,
+  "date": 1681955129062,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "empire1"
+      "value": "bridge3"
     },
     {
       "trait_type": "Head",
@@ -16,19 +16,19 @@
     },
     {
       "trait_type": "Shirt",
-      "value": "white"
+      "value": "black"
     },
     {
       "trait_type": "Jacket",
-      "value": "plaid"
+      "value": "brown"
     },
     {
       "trait_type": "Tie",
-      "value": "green"
+      "value": "teal"
     },
     {
       "trait_type": "Eyewear",
-      "value": "sunglasses"
+      "value": "cartoon"
     },
     {
       "trait_type": "Headpiece",
