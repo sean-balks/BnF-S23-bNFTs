@@ -1,0 +1,3902 @@
+[
+  {
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "7b35f6e6e150b5b03f628e2adb545c83b6df1623",
+    "edition": 1,
+    "date": 1682978244003,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "original"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "red"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "722605ba9a2f52c22ec49c5f1244c2f9fbb048fd",
+    "edition": 2,
+    "date": 1682978244993,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire2"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "original"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "red"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "0b1de5d8c9cc3ea084d8dd191780704d8e219e16",
+    "edition": 3,
+    "date": 1682978245821,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "black"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "poker"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3d"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "cb6120c76c3a3cba4403ed64793a3c08029e7674",
+    "edition": 4,
+    "date": 1682978246514,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "wsp2"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "3306881bbdf8fe607841c3b2a12d1baf50c1ee14",
+    "edition": 5,
+    "date": 1682978247279,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "black"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "flower"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "3e58e5f203d734b324d70fa641c5909636621b6a",
+    "edition": 6,
+    "date": 1682978247948,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol2"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "black"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "cartoon"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "d842f98bb8d71e1efc4ce6a68cd300d082567f50",
+    "edition": 7,
+    "date": 1682978248720,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "punk"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "tall"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "bc48502ddca500bc3cbe7f604204413f0ff0ab5b",
+    "edition": 8,
+    "date": 1682978249452,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire5"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "black"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "lumber2"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "1eeb2e8f1fa28bb10edfc2fe251c57fd3e537d84",
+    "edition": 9,
+    "date": 1682978250135,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "black"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "black"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "540655599be3c1e6d853cc3f1dfe2eaa16a86e05",
+    "edition": 10,
+    "date": 1682978250990,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire2"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "black"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "black"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blank"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #11",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "8890e5a988edbf6935f9c0dc909bb4ab545e5264",
+    "edition": 11,
+    "date": 1682978252627,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge2"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "red"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #12",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "092379bede3fa19829219bd81126212618821fa7",
+    "edition": 12,
+    "date": 1682978253807,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "wsp6"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "teal"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "grad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #13",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "61e4ae2ac4807dd3a82017057ee4b291eff07ed8",
+    "edition": 13,
+    "date": 1682978255057,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge1"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "punk"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "teal"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #14",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "d990a58f0cd98501f3c985e39b5da86fd4da6369",
+    "edition": 14,
+    "date": 1682978256203,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "poker"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blank"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #15",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "6b3f24195356c930ae09855843da9a34414e6fe0",
+    "edition": 15,
+    "date": 1682978257252,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol2"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "black"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "black"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "red"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blank"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #16",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "7ff2cdf92e7b01776e5e73a413ee1fd6dd4b791a",
+    "edition": 16,
+    "date": 1682978258573,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol1"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "navy"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blank"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #17",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "b3fede7ecb8ac72be023e94186f8fff239079d78",
+    "edition": 17,
+    "date": 1682978259564,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "wsp3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "poker"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "teal"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #18",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "f929f22119abd2c1bfb0b9ff69727d465ae0db55",
+    "edition": 18,
+    "date": 1682978260561,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol5"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "red"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #19",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "9efbafbe65fb765f1c33b26aba870608e5ff9cf3",
+    "edition": 19,
+    "date": 1682978261339,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "black"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "red"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "tall"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #20",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "646968d9a37aeeb6d322921d72fce50c3e6a280e",
+    "edition": 20,
+    "date": 1682978262258,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire5"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "black"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blank"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #21",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/21.png",
+    "dna": "5b66ca5662678ece6b68896e0548d4e57aff9e00",
+    "edition": 21,
+    "date": 1682978263392,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "black"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #22",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/22.png",
+    "dna": "72ae17c4a7f0cf94e67f9a869370c37d08f648ca",
+    "edition": 22,
+    "date": 1682978264213,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "wsp4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "black"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "teal"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3d"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #23",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/23.png",
+    "dna": "cb9a86d399bf5155f57bfc3b809ed625375f70df",
+    "edition": 23,
+    "date": 1682978265047,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire2"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "original"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #24",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "dna": "f95e95cfb4a76c07bca6501b8417325b98c060e2",
+    "edition": 24,
+    "date": 1682978265956,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "black"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "punk"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "teal"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #25",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "dna": "de9551cb98f4aea8097cbeed055053e0af584e05",
+    "edition": 25,
+    "date": 1682978266687,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge1"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "cartoon"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #26",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/26.png",
+    "dna": "2b59168159e90f62a23dbbbcf6449e42d6209137",
+    "edition": 26,
+    "date": 1682978267401,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "red"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #27",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "dna": "c7c952d6e6da70b0a7fb2feed8b82938b69a0d55",
+    "edition": 27,
+    "date": 1682978268873,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge1"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "helmet"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #28",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "dna": "0d505dfc7b64fe1322ce54d9e20f84d120479b2e",
+    "edition": 28,
+    "date": 1682978269834,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "original"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blank"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #29",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "dna": "f7249f1c2d202b120baa9bb5cc31bb12fd4d399c",
+    "edition": 29,
+    "date": 1682978270559,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "navy"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #30",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "dna": "86bdb39fcc52df34be0463c38edc8635127099d6",
+    "edition": 30,
+    "date": 1682978271322,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "teal"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #31",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/31.png",
+    "dna": "7d61ff35933c14ece8591d26019542aa68eb6e75",
+    "edition": 31,
+    "date": 1682978272127,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3d"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #32",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/32.png",
+    "dna": "b4127a1fd27150ae50241dd4585cc5395acba8f6",
+    "edition": 32,
+    "date": 1682978272857,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #33",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/33.png",
+    "dna": "cbef18c780b34eb757b509a2063c3bd257430122",
+    "edition": 33,
+    "date": 1682978273627,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol5"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "poker"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #34",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/34.png",
+    "dna": "c888f83e69d803c5d91720260a90062c3befa7cb",
+    "edition": 34,
+    "date": 1682978274494,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "original"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "flower"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #35",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/35.png",
+    "dna": "9cfc5916aeeb0b27f2da6fbb6824e4fad4e992a6",
+    "edition": 35,
+    "date": 1682978275266,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "wsp5"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "lumber2"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "cartoon"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #36",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/36.png",
+    "dna": "ee14c448afbe0731c5bdc030dce4a95240d3d84e",
+    "edition": 36,
+    "date": 1682978275988,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge1"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "teal"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #37",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/37.png",
+    "dna": "346a4371191476e134ef3d8ba54b3b6c43c35a8d",
+    "edition": 37,
+    "date": 1682978276748,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol5"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3d"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #38",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/38.png",
+    "dna": "08aba56734322f7fecba659c8de4bf745177988c",
+    "edition": 38,
+    "date": 1682978277668,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge1"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "lumber2"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "helmet"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #39",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/39.png",
+    "dna": "1fe98b8cc55867a583eff72a68288a8a010e0efe",
+    "edition": 39,
+    "date": 1682978278429,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #40",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/40.png",
+    "dna": "07b3a32270f607710acf42b92fb61096bf591d1d",
+    "edition": 40,
+    "date": 1682978279026,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "wsp3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "plaid"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "cartoon"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "grad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #41",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/41.png",
+    "dna": "0f5f7eb5ff122c8b89902f0aac857ef43e8272ac",
+    "edition": 41,
+    "date": 1682978279745,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol1"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "black"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blank"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #42",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/42.png",
+    "dna": "c9334154a2afa31483ece66d0949a7641e75d432",
+    "edition": 42,
+    "date": 1682978280543,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "plaid"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "flower"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #43",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/43.png",
+    "dna": "f987502e012ccebd095cf99f23ba201d26633619",
+    "edition": 43,
+    "date": 1682978281511,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol1"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "plaid"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #44",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/44.png",
+    "dna": "f0e1e48273b254b46c6d8d7b65b4be2647274740",
+    "edition": 44,
+    "date": 1682978282240,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire1"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #45",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/45.png",
+    "dna": "b2df4baf77d98c303d6ec67b6adefc92f782744f",
+    "edition": 45,
+    "date": 1682978282999,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "poker"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "red"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #46",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/46.png",
+    "dna": "bb8fdf2a45c0a94b8c2ade348eb542761dd12982",
+    "edition": 46,
+    "date": 1682978283745,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "wsp7"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "black"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "original"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #47",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/47.png",
+    "dna": "c592fb545dd8a323380cfa417b2c7184f48fde27",
+    "edition": 47,
+    "date": 1682978284582,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "poker2"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "red"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "cartoon"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #48",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/48.png",
+    "dna": "4d3549aa3bb03416078707af293076da593f86ed",
+    "edition": 48,
+    "date": 1682978285576,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire5"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "black"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "poker"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #49",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/49.png",
+    "dna": "8c001e5d226801a8755fa0dd308d45367ac02cc4",
+    "edition": 49,
+    "date": 1682978286403,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "poker"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3d"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #50",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/50.png",
+    "dna": "9ec0d3149a089bf342a9c05eddccdbcb42d915cb",
+    "edition": 50,
+    "date": 1682978287810,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "wsp4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "plaid"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "grad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #51",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/51.png",
+    "dna": "d44da06f1b962ba9981ccd65ea425dab0b8c15a3",
+    "edition": 51,
+    "date": 1682978288920,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "black"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blank"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "grad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #52",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/52.png",
+    "dna": "dea815ec014c9c677f8174d5498c1f0426893786",
+    "edition": 52,
+    "date": 1682978290001,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol5"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "plaid"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "red"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #53",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/53.png",
+    "dna": "f6f3d4b5cc96aab3049692225e219da81a83b838",
+    "edition": 53,
+    "date": 1682978290882,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "cartoon"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #54",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/54.png",
+    "dna": "32dbdb295e71be628d6cfab0ee3f7ed2513915d2",
+    "edition": 54,
+    "date": 1682978291682,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "wsp2"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "lumber2"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #55",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/55.png",
+    "dna": "1fa43fca4e16009f9dc4c815aac3d3be5e2b15e6",
+    "edition": 55,
+    "date": 1682978292685,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol2"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "poker"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3d"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #56",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/56.png",
+    "dna": "6c17df8b11b72705fe8d67fd699088da08e2cb1f",
+    "edition": 56,
+    "date": 1682978293503,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol2"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "black"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "teal"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3d"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #57",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/57.png",
+    "dna": "05b41f7f3d07871ad9fa8acb075686899526b57c",
+    "edition": 57,
+    "date": 1682978294308,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol2"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "poker"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blank"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #58",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/58.png",
+    "dna": "a545800f6928a8a0bd7e0d8d2e1e4ff93939e995",
+    "edition": 58,
+    "date": 1682978295577,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "original"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blank"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #59",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/59.png",
+    "dna": "0e50038d5ce95b5f1e91908a9e2f97925dc28973",
+    "edition": 59,
+    "date": 1682978296926,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire1"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #60",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/60.png",
+    "dna": "53711a300623ad1eb0ea433bdae38177902f7871",
+    "edition": 60,
+    "date": 1682978297898,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "black"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "navy"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "red"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "cartoon"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #61",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/61.png",
+    "dna": "57f86f99f4f0a99016e729cfa52a33ca6a3abc67",
+    "edition": 61,
+    "date": 1682978298867,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "black"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "teal"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #62",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/62.png",
+    "dna": "3218f518fbff78c08de7e969b0d624ef0bac4070",
+    "edition": 62,
+    "date": 1682978299784,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "punk"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "red"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "tall"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #63",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/63.png",
+    "dna": "41db12714678ce6e7c66f8fe02303e52f13c0291",
+    "edition": 63,
+    "date": 1682978300653,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol5"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "poker"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "teal"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #64",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/64.png",
+    "dna": "44d141a2d474338fce17e663a0146f4751f7dac4",
+    "edition": 64,
+    "date": 1682978302012,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire1"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "punk"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3d"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #65",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/65.png",
+    "dna": "f242e916756ee869029df854b65ee9bd55688af6",
+    "edition": 65,
+    "date": 1682978304178,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire5"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "navy"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blank"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #66",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/66.png",
+    "dna": "c73271a3d1df93d0187bd3208b4f6a492312e1f5",
+    "edition": 66,
+    "date": 1682978305188,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge2"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "teal"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "tall"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #67",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/67.png",
+    "dna": "c82856f70d1cfddbdf95bf1e9d5d121c66405c0b",
+    "edition": 67,
+    "date": 1682978306074,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "black"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "teal"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "flower"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "grad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #68",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/68.png",
+    "dna": "7d12fdf4ffe1e61e5eef59d974c5077dfa8461a9",
+    "edition": 68,
+    "date": 1682978307012,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol5"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "plaid"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #69",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/69.png",
+    "dna": "3012d33643254a422fb1a39d5f9941c585e1f289",
+    "edition": 69,
+    "date": 1682978307887,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "red"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blank"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #70",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/70.png",
+    "dna": "96010642d6b05f53fc5f123c8a423f2b5817f4ce",
+    "edition": 70,
+    "date": 1682978308981,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol1"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "original"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #71",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/71.png",
+    "dna": "c2a0004286e0b0712a7d17394556e0dfe9ee12dc",
+    "edition": 71,
+    "date": 1682978309891,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge2"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "black"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "original"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "cartoon"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #72",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/72.png",
+    "dna": "071f6d535d2c1e1cb105ae80ad6513b3a903d038",
+    "edition": 72,
+    "date": 1682978311047,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge1"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "punk"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3d"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #73",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/73.png",
+    "dna": "61c1f20f0ba2c5270820f3b44846e62a164520af",
+    "edition": 73,
+    "date": 1682978312122,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge2"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "tall"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #74",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/74.png",
+    "dna": "b7af86a9b003c063fe4f442ebd63483e66d0432c",
+    "edition": 74,
+    "date": 1682978312883,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "wsp1"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "red"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "flower"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #75",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/75.png",
+    "dna": "d929f07893a0cf626f17e6fdcccac6042ebfa9e4",
+    "edition": 75,
+    "date": 1682978313702,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire2"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "black"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "original"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3d"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #76",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/76.png",
+    "dna": "3ecbfc50c7d0c2e54c844b358e7c945eb5b31f58",
+    "edition": 76,
+    "date": 1682978314902,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol5"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "navy"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #77",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/77.png",
+    "dna": "a2dc7febdc46b55315fe1ce98a384034244cb3b5",
+    "edition": 77,
+    "date": 1682978315854,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "black"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "original"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3d"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #78",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/78.png",
+    "dna": "1766da809043d3380ad33f7d7fa9db33e3b0b5ed",
+    "edition": 78,
+    "date": 1682978316646,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge2"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "flower"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #79",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/79.png",
+    "dna": "dfa840dc46b9afb724f444451ae07693548464b7",
+    "edition": 79,
+    "date": 1682978317444,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire5"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "original"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "teal"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "flower"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #80",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/80.png",
+    "dna": "9e10a06c8e21ece5853dab7d7af1416113c4e616",
+    "edition": 80,
+    "date": 1682978318185,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "black"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "navy"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blank"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "grad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #81",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/81.png",
+    "dna": "0441e02ea0b2f5f8231eac23bdea5c35f660dc6c",
+    "edition": 81,
+    "date": 1682978319052,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol5"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "teal"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #82",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/82.png",
+    "dna": "84ef416f37335b05f9c499c19a5f11753b70eec7",
+    "edition": 82,
+    "date": 1682978319719,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "wsp7"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "navy"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3d"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #83",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/83.png",
+    "dna": "6d71b60b9c04468e8cd95252b291caff692e558c",
+    "edition": 83,
+    "date": 1682978320592,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blank"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #84",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/84.png",
+    "dna": "ce519b468ae7b2d5e0b43f3df85f6068b80cb6fd",
+    "edition": 84,
+    "date": 1682978321411,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge2"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "original"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #85",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/85.png",
+    "dna": "f602881f7b3c58af95bfdde996af60208d0043ef",
+    "edition": 85,
+    "date": 1682978322217,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge2"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "plaid"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blank"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "grad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #86",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/86.png",
+    "dna": "8b17c76841f4a838ae048ad2a5f21efdcb662312",
+    "edition": 86,
+    "date": 1682978323001,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "black"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "cartoon"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #87",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/87.png",
+    "dna": "f4ac0156c1d27c70989901d450fb455d7e4544d6",
+    "edition": 87,
+    "date": 1682978323775,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "wsp4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "plaid"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blank"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #88",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/88.png",
+    "dna": "6f28a9b4147af9756a6386db5bd0b4a4e6d0e7d2",
+    "edition": 88,
+    "date": 1682978324566,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "plaid"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "teal"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #89",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/89.png",
+    "dna": "8b0c19e2fa739c2e06d5b7f1f83494b6cb352273",
+    "edition": 89,
+    "date": 1682978325354,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge2"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "punk"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3d"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "cap"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #90",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/90.png",
+    "dna": "3892f5cbc8f9df334b9578528fc3fbeca3976a49",
+    "edition": 90,
+    "date": 1682978326045,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol1"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "original"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "cartoon"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #91",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/91.png",
+    "dna": "3a8292efe76c24d0430d1fa29b3b4d10b67653d7",
+    "edition": 91,
+    "date": 1682978326772,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "teal"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "vr"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #92",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/92.png",
+    "dna": "c32c51d350f5ed729f400caff6c47709493651fb",
+    "edition": 92,
+    "date": 1682978327470,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "purple"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "cartoon"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #93",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/93.png",
+    "dna": "a8843ae0992756c84a15df3073769dc0e9afd063",
+    "edition": 93,
+    "date": 1682978328255,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "sol2"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "punk"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "tall"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #94",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/94.png",
+    "dna": "672d43088e233c415e49e2b79c24b0416e2de648",
+    "edition": 94,
+    "date": 1682978328921,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "green"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "flower"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "blank"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #95",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/95.png",
+    "dna": "8e0081d1925f46e5373d9f9802f55705675afaa6",
+    "edition": 95,
+    "date": 1682978329627,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "navy"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "red"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "tall"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #96",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/96.png",
+    "dna": "72ad507758b62b6ae172465e55cca40ac6d85253",
+    "edition": 96,
+    "date": 1682978330305,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "black"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "poker"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "teal"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "tall"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #97",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/97.png",
+    "dna": "7a56262056cc01e4ce0551898ac5073b3b577991",
+    "edition": 97,
+    "date": 1682978330929,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire3"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "red"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blank"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "grad"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #98",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/98.png",
+    "dna": "995310d9d4515fc96da93633e9a806cf37008400",
+    "edition": 98,
+    "date": 1682978331595,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "navy"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "red"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "3d"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "helmet"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #99",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/99.png",
+    "dna": "570ad36ca82046fe962414b8ff88e738f1f75f2f",
+    "edition": 99,
+    "date": 1682978332348,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "bridge4"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "white"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "plaid"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "teal"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "blank"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #100",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/100.png",
+    "dna": "a77f149d0ca1b3643def5ff8abee21bca60f1609",
+    "edition": 100,
+    "date": 1682978333148,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "empire5"
+      },
+      {
+        "trait_type": "Head",
+        "value": "head"
+      },
+      {
+        "trait_type": "Shirt",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Jacket",
+        "value": "plaid"
+      },
+      {
+        "trait_type": "Tie",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "sunglasses"
+      },
+      {
+        "trait_type": "Headpiece",
+        "value": "earring"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]

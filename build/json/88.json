@@ -2,13 +2,13 @@
   "name": "Your Collection #88",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/88.png",
-  "dna": "f578c43e1927e1a043a7bd45384a6d027d8ccb5c",
+  "dna": "6f28a9b4147af9756a6386db5bd0b4a4e6d0e7d2",
   "edition": 88,
-  "date": 1681955174043,
+  "date": 1682978324566,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "empire1"
+      "value": "sol4"
     },
     {
       "trait_type": "Head",
@@ -16,11 +16,11 @@
     },
     {
       "trait_type": "Shirt",
-      "value": "white"
+      "value": "pink"
     },
     {
       "trait_type": "Jacket",
-      "value": "navy"
+      "value": "plaid"
     },
     {
       "trait_type": "Tie",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Eyewear",
-      "value": "blank"
+      "value": "sunglasses"
     },
     {
       "trait_type": "Headpiece",

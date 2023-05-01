@@ -2,13 +2,13 @@
   "name": "Your Collection #58",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/58.png",
-  "dna": "835bb021b1ea43b25b5949e5aae05f936b0614aa",
+  "dna": "a545800f6928a8a0bd7e0d8d2e1e4ff93939e995",
   "edition": 58,
-  "date": 1681955154730,
+  "date": 1682978295577,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "bridge3"
+      "value": "sol3"
     },
     {
       "trait_type": "Head",
@@ -20,15 +20,15 @@
     },
     {
       "trait_type": "Jacket",
-      "value": "lumber"
+      "value": "original"
     },
     {
       "trait_type": "Tie",
-      "value": "teal"
+      "value": "green"
     },
     {
       "trait_type": "Eyewear",
-      "value": "vr"
+      "value": "blank"
     },
     {
       "trait_type": "Headpiece",

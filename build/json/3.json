@@ -2,13 +2,13 @@
   "name": "Your Collection #3",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/3.png",
-  "dna": "082c5024ce581a36659ea4edfabdb5e1d0f1b469",
+  "dna": "0b1de5d8c9cc3ea084d8dd191780704d8e219e16",
   "edition": 3,
-  "date": 1681955116919,
+  "date": 1682978245821,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "wsp1"
+      "value": "bridge4"
     },
     {
       "trait_type": "Head",
@@ -16,11 +16,11 @@
     },
     {
       "trait_type": "Shirt",
-      "value": "white"
+      "value": "black"
     },
     {
       "trait_type": "Jacket",
-      "value": "navy"
+      "value": "poker"
     },
     {
       "trait_type": "Tie",
@@ -28,7 +28,7 @@
     },
     {
       "trait_type": "Eyewear",
-      "value": "blank"
+      "value": "3d"
     },
     {
       "trait_type": "Headpiece",

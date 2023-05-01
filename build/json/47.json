@@ -2,9 +2,9 @@
   "name": "Your Collection #47",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/47.png",
-  "dna": "5062cfc901d8d63ef235c339bfdfdcd3bf4aec55",
+  "dna": "c592fb545dd8a323380cfa417b2c7184f48fde27",
   "edition": 47,
-  "date": 1681955147391,
+  "date": 1682978284582,
   "attributes": [
     {
       "trait_type": "Background",
@@ -20,7 +20,7 @@
     },
     {
       "trait_type": "Jacket",
-      "value": "brown"
+      "value": "poker2"
     },
     {
       "trait_type": "Tie",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Eyewear",
-      "value": "3d"
+      "value": "cartoon"
     },
     {
       "trait_type": "Headpiece",
-      "value": "tall"
+      "value": "earring"
     }
   ],
   "compiler": "HashLips Art Engine"

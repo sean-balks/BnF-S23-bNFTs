@@ -2,13 +2,13 @@
   "name": "Your Collection #84",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/84.png",
-  "dna": "c1c88ae0d317c90ded519db28c1830bb93de3d60",
+  "dna": "ce519b468ae7b2d5e0b43f3df85f6068b80cb6fd",
   "edition": 84,
-  "date": 1681955171400,
+  "date": 1682978321411,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "sol2"
+      "value": "bridge2"
     },
     {
       "trait_type": "Head",
@@ -20,19 +20,19 @@
     },
     {
       "trait_type": "Jacket",
-      "value": "punk"
+      "value": "original"
     },
     {
       "trait_type": "Tie",
-      "value": "red"
+      "value": "brown"
     },
     {
       "trait_type": "Eyewear",
-      "value": "3d"
+      "value": "vr"
     },
     {
       "trait_type": "Headpiece",
-      "value": "earring"
+      "value": "cap"
     }
   ],
   "compiler": "HashLips Art Engine"

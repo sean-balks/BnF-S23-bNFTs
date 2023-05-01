@@ -2,9 +2,9 @@
   "name": "Your Collection #13",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/13.png",
-  "dna": "9e6372c4de213d9b337f09a74e4766eb6ea7632e",
+  "dna": "61e4ae2ac4807dd3a82017057ee4b291eff07ed8",
   "edition": 13,
-  "date": 1681955123697,
+  "date": 1682978255057,
   "attributes": [
     {
       "trait_type": "Background",
@@ -20,15 +20,15 @@
     },
     {
       "trait_type": "Jacket",
-      "value": "purple"
+      "value": "punk"
     },
     {
       "trait_type": "Tie",
-      "value": "brown"
+      "value": "teal"
     },
     {
       "trait_type": "Eyewear",
-      "value": "3d"
+      "value": "vr"
     },
     {
       "trait_type": "Headpiece",

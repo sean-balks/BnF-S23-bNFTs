@@ -2,13 +2,13 @@
   "name": "Your Collection #78",
   "description": "Remember to replace this description",
   "image": "ipfs://NewUriToReplace/78.png",
-  "dna": "c0ca3711871ece17dd6a3308c93a0392b40c62fc",
+  "dna": "1766da809043d3380ad33f7d7fa9db33e3b0b5ed",
   "edition": 78,
-  "date": 1681955167442,
+  "date": 1682978316646,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "sol2"
+      "value": "bridge2"
     },
     {
       "trait_type": "Head",
@@ -20,15 +20,15 @@
     },
     {
       "trait_type": "Jacket",
-      "value": "purple"
+      "value": "brown"
     },
     {
       "trait_type": "Tie",
-      "value": "teal"
+      "value": "brown"
     },
     {
       "trait_type": "Eyewear",
-      "value": "3d"
+      "value": "flower"
     },
     {
       "trait_type": "Headpiece",
