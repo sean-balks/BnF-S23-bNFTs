@@ -5,9 +5,10 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "Your Collection";
-const description = "Remember to replace this description";
-const baseUri = "ipfs://NewUriToReplace";
+const namePrefix = "Bobcat";
+const description = "Introducing the wild and eclectic world of 'Bobcat Bazaar' - an exclusive NFT collection created by NYU Blockchain that will have you howling with excitement! Featuring a diverse cast of stylish and tech-savvy bobcats, each one adorned with their own unique accessories and fashion sense, this collection is the ultimate blend of cutting-edge technology and high-end design - the wild world of 'Bobcat Bazaar' awaits!";
+const baseUri = "ipfs://bafybeianhu2oxrheuvfmywbm3ygjgjgkda2fyox4hztqgdptov4iyl2k44";
+
 
 const solanaMetadata = {
   symbol: "YC",

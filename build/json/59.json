@@ -1,38 +1,38 @@
 {
-  "name": "Your Collection #59",
-  "description": "Remember to replace this description",
-  "image": "ipfs://NewUriToReplace/59.png",
-  "dna": "0e50038d5ce95b5f1e91908a9e2f97925dc28973",
+  "name": "Bobcat #59",
+  "description": "Introducing the wild and eclectic world of 'Bobcat Bazaar' - an exclusive NFT collection created by NYU Blockchain that will have you howling with excitement! Featuring a diverse cast of stylish and tech-savvy bobcats, each one adorned with their own unique accessories and fashion sense, this collection is the ultimate blend of cutting-edge technology and high-end design - the wild world of 'Bobcat Bazaar' awaits!",
+  "image": "ipfs://bafybeianhu2oxrheuvfmywbm3ygjgjgkda2fyox4hztqgdptov4iyl2k44/59.png",
+  "dna": "2fa0140871151cec2cb52a2c7e8672f674ffa35f",
   "edition": 59,
-  "date": 1682978296926,
+  "date": 1683003272700,
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "empire1"
+      "value": "Empire State Building Sunrise"
     },
     {
       "trait_type": "Head",
-      "value": "head"
+      "value": "Head"
     },
     {
       "trait_type": "Shirt",
-      "value": "white"
+      "value": "Pink"
     },
     {
       "trait_type": "Jacket",
-      "value": "brown"
+      "value": "Lumber"
     },
     {
       "trait_type": "Tie",
-      "value": "brown"
+      "value": "Teal"
     },
     {
       "trait_type": "Eyewear",
-      "value": "sunglasses"
+      "value": "Cartoon"
     },
     {
       "trait_type": "Headpiece",
-      "value": "blank"
+      "value": "Top Hat"
     }
   ],
   "compiler": "HashLips Art Engine"
